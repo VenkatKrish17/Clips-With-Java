@@ -8,7 +8,7 @@ A sample clips with java application with a demo HTML page to add fact and retri
 2. Import in eclipse
 3. Download tomcat server, from https://tomcat.apache.org/download-90.cgi
 4. Add the server via server tab in eclipse
-5. Add the application "ClipsTemplate" to the server
+5. Add the application "SampleClipsJava" to the server
 6. Deploy the application and see the output in the browser
 
 Bingo !! There you go.. 
