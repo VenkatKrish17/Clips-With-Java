@@ -12,3 +12,8 @@ A sample clips with java application with a demo HTML page to add fact and retri
 6. Deploy the application and see the output in the browser
 
 Bingo !! There you go.. 
+
+7. Place all your rules and templates in rules.clp and template.clp file under webcontent/web-inf/ClipsSources
+8. Refeer to myscripts.js file to make GET and POST ajax request to add and retrive facts.
+
+
